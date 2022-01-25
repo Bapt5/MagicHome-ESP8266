@@ -1,0 +1,21 @@
+{
+    "name": "MagicHome",
+    "keywords": "magichome, led",
+    "description": "ESP8266 Library for turn on, turn off and change color of MagicHome devices.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Bapt5/MagicHome-ESP8266.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Baptiste D",
+        "email": "",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0",
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+  }
